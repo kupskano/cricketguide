@@ -1,0 +1,7 @@
+{
+  "name": "cricketguide",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
